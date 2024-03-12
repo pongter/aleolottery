@@ -1,0 +1,10 @@
+{
+    "program": "aleolottery.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpAu2xkxTFNaUy59A455sy5zCsPdHcV7wgK66VFnnobTg1",
+        "address": "aleo16pve9pplqxlkz8agm39uxu6mqtqjrxthrutqgp4an3nxy6cvau9skl0h42"
+    },
+    "license": "MIT"
+}
