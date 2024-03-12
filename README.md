@@ -38,7 +38,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/pongter"><img src="https://avatars.githubusercontent.com/u/8476929?v=4?s=100" width="100px;" alt="aleosys"/><br /><sub><b>aleosys</b></sub></a><br /><a href="https://github.com/pongter/aleolottery" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/pongter"><img src="https://avatars.githubusercontent.com/u/8476929?v=4?s=100" width="100px;" alt="pongter"/><br /><sub><b>pongter</b></sub></a><br /><a href="https://github.com/pongter/aleolottery" title="Documentation">📖</a></td>
     </tr>
   </tbody>
   <tfoot>
