@@ -1,5 +1,8 @@
+
 # aleolottery
 A Leo program example code
+
+Discord ID: sevewave
 
 # aleolottery.aleo
 
